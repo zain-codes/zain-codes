@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zain-codes
+- 👋 Hi, I’m Zain
 - 👀 I’m interested in Artificial intellignece & Computer vision
 - 🌱 I’m currently learning Applications of Artificial intelligence & Computer visison
 - 📫 Reach me out on Whatsapp and kindly mention where you got my number from --> +966 538456188
