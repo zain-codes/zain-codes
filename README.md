@@ -1,2 +1,2 @@
 - Hi, I’m Tarek
-- Focusing on Artificial intelligence & Computer vision, and System Engineering
+- Focusing on Artificial intelligence, Computer vision, and System Engineering
